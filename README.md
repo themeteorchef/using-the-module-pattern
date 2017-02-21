@@ -1,17 +1,16 @@
-# The Meteor Chef - Base
-A starting point for Meteor apps.
+##### Tutorial: Using the Module Pattern
 
-<table>
-  <tbody>
-    <tr>
-      <th>Base Version</th>
-      <td>v4.11.1</td>
-    </tr>
-    <tr>
-      <th>Meteor Version</th>
-      <td>v1.4.2.3</td>
-    </tr>
-  </tbody>
-</table>
+In this tutorial, we'll learn how to use the module pattern. We'll learn about ES2015/ES6 imports and exports as well as why it's important to organize our code using modules. We'll take a look at how to define a simple module as well as a complex module with multiple steps.
 
-[Read the Documentation](http://themeteorchef.com/base)
+
+[Read this tutorial on The Meteor Chef](https://themeteorchef.com/tutorials/using-the-module-pattern)  
+
+[Download the source (.zip)](https://github.com/themeteorchef/using-the-module-pattern/archive/master.zip)
+
+---
+
+**Need help with this?** [Sign up for a Mentorship appointment](https://themeteorchef.com/mentorship?readme=using-the-module-pattern) and get 1-on-1 help.
+
+---
+
+_The code for this tutorial is licensed under the [MIT License](http://opensource.org/licenses/MIT)_.
