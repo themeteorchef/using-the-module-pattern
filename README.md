@@ -1,7 +1,6 @@
-##### Tutorial: Using the Module Pattern
+#### Tutorial: Using the Module Pattern
 
-In this tutorial, we'll learn how to use the module pattern. We'll learn about ES2015/ES6 imports and exports as well as why it's important to organize our code using modules. We'll take a look at how to define a simple module as well as a complex module with multiple steps.
-
+undefined
 
 [Read this tutorial on The Meteor Chef](https://themeteorchef.com/tutorials/using-the-module-pattern)  
 
